@@ -6,7 +6,6 @@ font-family: 'Poppins' , 'sans-serif';
 display: flex;
 align-items: center;
 justify-content: center;
-
 }
 
 header{
@@ -15,8 +14,7 @@ header{
     border: 2px solid #287f75;
     display: flex;
     flex-wrap: wrap;
-    overflow: hidden;
-    box-shadow: px 3px 15px #090f1f; 
+    box-shadow: 0px 2px 10px #090f1f; 
 }
 
 header .menu_side, .song_side{
@@ -51,6 +49,7 @@ cursor:pointer;
 
 header .menu_side .spellistor {
     margin: 0px 10px 0px 20px;
+
 }
 
 header .menu_side .spellistor h4{
@@ -71,6 +70,7 @@ header .menu_side .spellistor h4:hover {
 header .menu_side .spellistor h4 span {
     position:relative;
     margin-right: 20px;
+
 }
 
 header .menu_side .spellistor h4 span::before {
@@ -94,9 +94,8 @@ header .menu_side .spellistor h4 .bi {
 }
 
 header .menu_side .menu_song {
-    width:298px;
-    height: 245px;
-    border: 1px solid #287f75;
+    width: 300px;
+    height: 247px;
     margin-top: 128px;
     box-shadow: 0px 3px 15px #090f1f;   
 }
