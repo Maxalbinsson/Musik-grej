@@ -114,6 +114,15 @@ header .menu_side .menu_song li span{
     color: #287f75;
 }
 
+
+
+header .menu_side .menu_song li img{
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
 header .menu_side .menu_song li img{
     width: 32px;
     height: 32px;
@@ -127,11 +136,25 @@ header .menu_side .menu_song li h5{
     color: #287f75;
 }
 
-header .menu_side .menu_song li h5 .subtitle{
-    font-size: 9px;
-    color: #287f75 ;
+header .menu_side .menu_song li h6{
+    font-size: 11px;
+    margin-left: 15px;
+    color: #287f75;   
 }
 
+
+header .menu_side .menu_song li h7{
+    font-size: 11px;
+    margin-left: 15px;
+    color: #287f75;   
+}
+
+
+header .menu_side .menu_song li h5 .subtitle{
+    font-size: 9px;
+    color: #287f75; 
+}
+ 
 
 header .menu_side .menu_song li h5 .bi{
     position: absolute;
